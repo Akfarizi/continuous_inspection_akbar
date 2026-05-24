@@ -16,14 +16,16 @@
     <repository>
       <id>github</id>
       <name>GitHub Packages</name>
-      <url>https://maven.pkg.github.com/jatihusen/Basic-Java-Maven</url>
+      <url>https://maven.pkg.github.com/Akfarizi/continuous_inspection_akbar/Basic-Java-Maven</url>
     </repository>
   </distributionManagement>
   
   <properties>
      <maven.compiler.source>1.8</maven.compiler.source>
      <maven.compiler.target>1.8</maven.compiler.target>
+	  <sonar.organization>akfarizi</sonar.organization>
  </properties>
+
   
 </project>
 
